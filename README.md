@@ -4,3 +4,5 @@ weatheapp 애플리케이션은 release에 올리겠습니다.
 https://www.data.go.kr/data/15012688/openapi.do
 stars랑 팔로우 좀 해주세요 ㅠ
 ```
+https://github.com/hexahedron74
+이전 깃허브 주소
