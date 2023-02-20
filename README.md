@@ -1,2 +1,2 @@
-blah blah blah
-www.github.com/hexahedron74
+seed shovel
+pie sun
